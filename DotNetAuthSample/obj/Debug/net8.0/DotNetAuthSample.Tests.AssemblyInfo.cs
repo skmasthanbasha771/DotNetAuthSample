@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetAuthSample.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e211d4eda020da5af835df52f01903e0f9f10be")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetAuthSample.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetAuthSample.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
