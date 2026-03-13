@@ -20,7 +20,7 @@ namespace DotNetAuthSample.Api.Controllers
             _jwtService = jwtService;
         }
 
-        
+        //Register a new user
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] RegisterDto dto)
         {
