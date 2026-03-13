@@ -37,7 +37,7 @@ namespace DotNetAuthSample.Api.Controllers
             return Ok("User registered");
         }
 
-        
+        //Login and get JWT token
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginDto dto)
         {
